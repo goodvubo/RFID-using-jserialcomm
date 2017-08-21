@@ -1,5 +1,5 @@
 # RFID-using-jserialcomm
-Employee logger with RFID and database using jserialcomm java library
+Arduino employee logger with MFRC522 RFID module and database using jserialcomm java library
 
 ***Use the EXAMPLE.sql to import the example database.
 
